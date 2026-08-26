@@ -1,0 +1,4 @@
+# Generierte Berichte ignorieren
+reports/
+*.log
+.DS_Store
